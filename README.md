@@ -24,3 +24,12 @@ To test the pop function, run "pop key list_of_tuples_ordered_by_key_and_value" 
 
 ## put
 To test the put function, run "put key value list_of_tuples_ordered_by_key_and_value" and observe output.
+
+# Student.hs
+Student.hs creates an analog of an object for a type Student.
+
+# BTS.hs
+This project provides a representatino of a binary search tree.
+
+# MyRandom.hs
+This project uses monads to create implementations of RNG functions
