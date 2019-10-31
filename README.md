@@ -13,8 +13,8 @@ This is a tial recursive function that returns the distance traveled by a bounci
 ## newton
 This functino returns an approximatino to the square root of a given number. To test, load project1 and run "newton number iteratation tolerance"
 
-# project 2
-project2 provides a set of functions entailing the structure of an association list with mutation and iteration.
+# AssociationList
+AssociationList.hs provides a set of functions entailing the structure of an association list with mutation and iteration.
 
 ## get
 To test the get function, run "get key value list_of_tuples_ordered_by_key_and_value" and observe the output.
